@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="acceleration">Acceleration</string>
+    <string name="accelerationx">acceleration X</string>
+    <string name="accelerationy">acceleration Y</string>
+    <string name="accelerationz">acceleration Z</string>
+    <string name="accelerationM">acceleration MAX</string>
+    <string name="gravitys">gravity standard</string>
+</resources>
